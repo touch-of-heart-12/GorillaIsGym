@@ -2975,6 +2975,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77777e961de847f4b8b47ea96d6fa91b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mainBGM: {fileID: 0}
+  evolutionBGM: {fileID: 0}
+  buttonclick: {fileID: 0}
   bgmSource: {fileID: 980722182}
   bgmFadeDuration: 1
   seSource: {fileID: 876899163}
